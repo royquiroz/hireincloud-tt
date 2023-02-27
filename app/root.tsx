@@ -17,7 +17,7 @@ import { ContextProfile } from "./context/ProfileContext";
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "HireIn Cloud",
   viewport: "width=device-width,initial-scale=1",
 });
 

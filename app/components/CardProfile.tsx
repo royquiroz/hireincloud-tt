@@ -54,7 +54,8 @@ export default function CardProfile({ profile }: ProfileProps) {
     <Card
       direction={{ base: "row", sm: "row" }}
       overflow="hidden"
-      variant="outline"
+      variant="elevated"
+      bg="gray.100"
     >
       <Image
         src={profile?.photo}
