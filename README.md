@@ -12,6 +12,8 @@ npm run dev
 
 This starts your app in development mode, rebuilding assets on file changes.
 
+**_NOTE_**: Add environments file before running the project
+
 ## Deployment
 
 First, build your app for production:
